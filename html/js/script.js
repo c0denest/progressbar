@@ -26,7 +26,7 @@ $('document').ready(function() {
     };
 
     Progressbar.ProgressCancel = function() {
-        $("#progress-label").text("İptal Edildi");
+        $("#progress-label").text("Cancelled");
         $("#progress-bar").stop().css( {"width": "100%", "background-color": "rgba(71, 0, 0, 0.8)"});
         $('#progress-bar').removeClass('cancellable');
 
