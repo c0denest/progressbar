@@ -3,3 +3,4 @@
 
 
 <a href="https://discord.gg/NC3NxVWKxk"><img src="https://img.shields.io/discord/1137868319806996581.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<a href="https://www.youtube.com/@CodeNestt" ><img src="https://img.shields.io/badge/Youtube%20Code%20Nest-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
